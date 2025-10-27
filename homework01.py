@@ -38,3 +38,4 @@ fullstack_dict["Fullstack"] = course_counts["Frontend"] + course_counts["Backend
 
 print("\nUpdated dictionary with Fullstack course:")
 print(fullstack_dict)
+number =int (input("Enter a number to exit: "))
